@@ -53,6 +53,10 @@ INSTALLED_APPS = [
     "django.contrib.staticfiles",
     "hello",
     'user',
+    'essay',
+    'quiz',
+'multichoice',
+'true_false',
 ]
 
 MIDDLEWARE = [
